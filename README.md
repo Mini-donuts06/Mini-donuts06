@@ -2,7 +2,7 @@
 <!--      COOKIE GIF       -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Cookie GIF" width="600"/>
+  <img src="https://dl7.glitter-graphics.net/pub/3580/3580617sz0ygexqpz.gif" alt="Cute animated cookie" width="300"/>
 </p>
 
 # Hi there 👋, I'm Minal!
