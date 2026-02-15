@@ -5,7 +5,7 @@
   <img src="https://dl7.glitter-graphics.net/pub/3580/3580617sz0ygexqpz.gif" alt="Cute animated cookie" width="300"/>
 </p>
 
-# Hi there 👋, I'm Minal!
+# HAIIIIIIIIIIIII THERE, I'm Minal!
 
 I'm an engineering student and I like coding and cookies nom nom.
 
