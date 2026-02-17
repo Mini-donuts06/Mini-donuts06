@@ -12,6 +12,7 @@ I'm an engineering student and I like coding and cookies nom nom.
 ## 🍪🤓 Current Projects
 
 - [**Desk Robot**](https://github.com/Jamesjli1/Desk-Robot.git) – My study buddy robot project.
+- [**Practice Console**](https://github.com/Mini-donuts06/Robot-pratice-console) - Experimenting with PyQt and chatbot logic 
 - Currently cooking other projects tee hee
 
 
