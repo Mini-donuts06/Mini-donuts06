@@ -13,10 +13,7 @@ I'm an engineering student and I like coding and cookies nom nom.
 
 - [**Desk Robot**](https://github.com/Jamesjli1/Desk-Robot.git) – My study buddy robot project
 - [**Practice Console**](https://github.com/Mini-donuts06/Robot-pratice-console) - Experimenting with PyQt and chatbot logic
-- [**Physic simulations**](https://github.com/Mini-donuts06/Physics-practice.git) - Reinforcing OOP and experimenting with pymunk
-- [**Open CV**](https://github.com/Mini-donuts06/Open_CV.git) - Learning and practicing computer vision
-- Will cook other projects soon dw 🤓
-
+- [**GlowGenie**](https://github.com/Mini-donuts06/GlowGenie.git) - Learning backend essentials
 
 
 <!--
