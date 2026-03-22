@@ -7,7 +7,7 @@
 
 # HAIIIIIIIIIIIII THERE, I'm Minal!
 
-I'm an engineering student and I like coding and cookies nom nom.
+I'm an engineering student and I like coding
 
 ## 🍪🤓 Current Projects
 
