@@ -13,7 +13,7 @@ I'm an engineering student and I like coding
 
 - [**LumiBot**](https://github.com/Mini-donuts06/Robot-pratice-console) - Experimenting with chatbot logic
 - [**GlowGenie**](https://github.com/Mini-donuts06/GlowGenie.git) - Learning backend and webdev essentials
-- [**FunPhysicsSimulations**](https://github.com/Mini-donuts06/FunPhysicsSimulations.git) - Experimenting with react
+
 
 
 <!--
